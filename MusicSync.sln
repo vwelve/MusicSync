@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicSync", "MusicSync\MusicSync.csproj", "{93B82F9F-8B5A-4A17-99B8-8D260548D539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B82F9F-8B5A-4A17-99B8-8D260548D539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B82F9F-8B5A-4A17-99B8-8D260548D539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B82F9F-8B5A-4A17-99B8-8D260548D539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B82F9F-8B5A-4A17-99B8-8D260548D539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7DD41C3-E995-4849-B0DA-FA9429DAA532}
+	EndGlobalSection
+EndGlobal
